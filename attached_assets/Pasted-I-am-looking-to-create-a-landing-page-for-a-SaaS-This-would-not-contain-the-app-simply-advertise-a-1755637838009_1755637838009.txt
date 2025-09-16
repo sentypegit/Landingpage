@@ -1,0 +1,22 @@
+I am looking to create a landing page for a SaaS. This would not contain the app, simply advertise and have details towards the software. It would be  a modern, and sleek design. Dark theme, yet utilizing 
+#ff5a00 as an accent color and #8a90a1 as a background accent color
+
+Below will be the sales pitch that details the SaaS service that we would be promoting on the landing page:
+
+What I am selling is a financial news curation platform, one that provides detailed insights per article, along with an ever growing news archive and live collection of publishers, both domestic and international. Many hedge funds and institutions have their own internal news platform or existing news pipelines, however I can promise none have the scale, modularity, insights nor details than what we are offering as an everlasting service dedicated to this cause. Our service and platform is to assist cross-functionally within your firm, providing analytics and details to the quant or the algorithmic traders, insights to the researchers, and fast information for the portfolio managers and fellow stakeholders.  
+
+For the rigorous details for the trader, we provide analytics off sentiment volume of articles on the topic and subjectivity. We intend to capture every publisher under our umbrella, allowing you towards the local papers of a targeted refinery or farm. We correlate to market data, to find the type of article that has historically affected this security in the past to alert you in the present as soon as possible. 
+Maybe some of these actions are already performed by the quantitative side of the firm, however it is usually done for targeted strategy and area, and not as large of scale, for the entirety of your portfolio.
+
+For the researchers we provide not only an ar
+	- Summarizations across time frames for securities
+	- Signals for articles whose topic matter have previously impacted
+	- Correlation coefficient towards market, line of best fit
+	- Weights that allow modifying the impact of subjective articles
+	- Knowledge graph modularity, to create a robust indirect newsfeed
+	
+	
+For the assosciates
+	- robust news alerts, connected to brokerage to alert on targeted investments the moment they are purchased
+	- Consolidated news alerts and reports, that finds the same topic many publishers are discussing and only notifying you once, summarizing the entire pov that is being made. 
+
