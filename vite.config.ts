@@ -12,14 +12,13 @@ export default defineConfig({
       "@assets": path.resolve(__dirname, "./attached_assets"),
     },
   },
+  root: ".",
   build: {
     outDir: "dist",
     emptyOutDir: true,
     sourcemap: true,
     rollupOptions: {
-      input: {
-        main: path.resolve(__dirname, "index.html"),
-      },
+      input: "index.html",
       output: {
         manualChunks: (id) => {
           if (id.includes("node_modules")) {
