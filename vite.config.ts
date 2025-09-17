@@ -18,7 +18,7 @@ export default defineConfig({
     sourcemap: true,
     rollupOptions: {
       input: {
-        main: path.resolve(__dirname, "client/index.html"),
+        main: path.resolve(__dirname, "index.html"),
       },
       output: {
         manualChunks: (id) => {
